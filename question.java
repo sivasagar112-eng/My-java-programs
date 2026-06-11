@@ -23,6 +23,6 @@ public class question {
                 ;
                 break;
         }
-
+        sc.close();
     }
 }

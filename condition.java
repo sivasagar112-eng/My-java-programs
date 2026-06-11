@@ -7,5 +7,6 @@ public class condition {
         System.out.println("Enter your name: ");
         String name = sc.nextLine();
         System.out.println("Your name is " + name);
+        sc.close();
     }
 }

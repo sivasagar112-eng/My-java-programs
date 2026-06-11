@@ -32,5 +32,6 @@ public class find_an_element_in_an_2darr {
             }
 
         }
+        sc.close();
     }
 }

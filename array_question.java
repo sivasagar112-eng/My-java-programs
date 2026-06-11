@@ -17,5 +17,6 @@ public class array_question {
                 System.out.println("The number found at index : " + i);
             }
         }
+        sc.close();
     }
 }

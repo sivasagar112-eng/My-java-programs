@@ -18,5 +18,6 @@ public class find_element_in_array {
                 System.out.println("The element found at index : " + i);
             }
         }
+        sc.close();
     }
 }

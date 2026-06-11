@@ -29,5 +29,6 @@ public class array_2nd_question {
                 }
             }
         }
+        sc.close();
     }
 }
